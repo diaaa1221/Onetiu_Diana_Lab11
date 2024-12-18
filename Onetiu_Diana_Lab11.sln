@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{7D8E6576-D701-41C1-8DD0-7037FAD739DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onetiu_Diana_Lab11", "Onetiu_Diana_Lab11\Onetiu_Diana_Lab11.csproj", "{7A0F4AB8-A382-4B89-8960-FE7C41D0F819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D8E6576-D701-41C1-8DD0-7037FAD739DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8E6576-D701-41C1-8DD0-7037FAD739DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8E6576-D701-41C1-8DD0-7037FAD739DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8E6576-D701-41C1-8DD0-7037FAD739DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0F4AB8-A382-4B89-8960-FE7C41D0F819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0F4AB8-A382-4B89-8960-FE7C41D0F819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0F4AB8-A382-4B89-8960-FE7C41D0F819}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7A0F4AB8-A382-4B89-8960-FE7C41D0F819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0F4AB8-A382-4B89-8960-FE7C41D0F819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0F4AB8-A382-4B89-8960-FE7C41D0F819}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83864395-AB2B-4089-AB7C-101B77E0BC22}
+	EndGlobalSection
+EndGlobal
